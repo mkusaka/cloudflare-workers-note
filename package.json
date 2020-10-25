@@ -1,0 +1,8 @@
+{
+  "name": "cloudflare-workers-note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mkusaka/cloudflare-workers-note.git",
+  "author": "mkusaka <hinoshita1992@gmail.com>",
+  "license": "MIT"
+}
