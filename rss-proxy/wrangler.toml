@@ -1,6 +1,5 @@
-name = "ts"
+name = "rss-proxy"
 type = "webpack"
-account_id = "hinoshita1992@gmail.com"
 workers_dev = true
 route = ""
 zone_id = ""
